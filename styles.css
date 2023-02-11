@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: #EBC7E6;
+    font-family: 'Averia Serif Libre', cursive;
+}
+h1{
+    font-size: 312.5%;
+    margin: 0px;
+    font-family: 'Pacifico', cursive;
+    color: #645CBB;
+}
+h2{
+    color: #645CBB;
+    font-weight: normal;
+    padding-bottom: 10px;
+    font-size: 35px;
+}
+h3{
+    color: #645CBB;
+}
+.info{
+    width: 30%;
+    margin: auto;
+}
+.message-info{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.top-container{
+    background-color: #BFACE2;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.gif-image{
+    width: 25%;
+    border-radius: 10%;
+    float: left;
+    margin-right:30px;
+}
+.photo-image{
+    width: 25%;
+    border-radius: 10%;
+    float: right;
+    margin-left:30px;
+}
+hr{
+    border-style: none;
+    border-top: dotted ;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;
+}
+p{
+    margin: 0;
+}
+.middle-container{
+   margin: 100px 0;
+}
+.bottom-container{
+background-color: #A084DC;
+padding: 40px 0 20px;
+}
+.btn {
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: 'Averia Serif Libre', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    background: #A084DC;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #645CBB;
+    text-decoration: none;
+}
+a{
+    color: #645CBB;
+    font-family: 'Averia Serif Libre', cursive;
+    text-decoration: none;
+    margin: 40px 10px;
+}
+a:hover{
+    color: white;
+}
+.copyright{
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px;
+}
